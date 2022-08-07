@@ -1,6 +1,6 @@
 
 <!DOCTYPE html>
-<html lang="vi">
+<html lang="vi-VN">
 </html>
 <head>
 <title>BestFull</title>

@@ -1,6 +1,6 @@
 
 <!DOCTYPE html>
-<html lang="vi-VN">
+<html lang="vi">
 </html>
 <head>
 <title>BestFull</title>
@@ -8,6 +8,6 @@
 <body>
 
 
-<h1>chào mọi người</h1>
-<p>hi.</p>
+<h1>EntiMC</h1>
+<p>haohan.</p>
 </body>
